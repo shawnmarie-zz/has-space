@@ -9,3 +9,5 @@ making a commit test
 
 second time is the charm?
 updating!
+
+logging activity
